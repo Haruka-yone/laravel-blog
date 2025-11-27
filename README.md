@@ -15,6 +15,6 @@ Laravel × Bootstrap で開発した SNS 風ブログアプリ。
 ### 📷 Image
 - [ログイン画面](readme_images/register.png)
 - [ホーム](readme_images/home.png)
-- [投稿一覧](readme_images/post.png)
+- [投稿](readme_images/post.png)
 - [プロフィール](readme_images/profile.png)
 - [プロフィール編集](readme_images/editprofile.png)
